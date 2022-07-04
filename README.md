@@ -1,3 +1,6 @@
+# original author: Andre de Vries
+https://www.youtube.com/watch?v=aEyERwrReMU&t=2s
+
 # Dutch Covid Cases Web Data Connector
 
 Link Web Data Connector Docs: https://tableau.github.io/webdataconnector/#
