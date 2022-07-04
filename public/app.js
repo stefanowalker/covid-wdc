@@ -65,6 +65,7 @@ console.log("This is working!");
         }
         table.appendRows(tableData);
         doneCallback();
+        console.log("iterou sobre o objeto");
       }
     );
   };
